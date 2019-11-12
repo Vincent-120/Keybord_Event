@@ -1,0 +1,16 @@
+
+.container{
+    height: 30em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+#character{
+    padding-top: auto;
+    padding-bottom: auto;
+    align-self: center;
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+}
